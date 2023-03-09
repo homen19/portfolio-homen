@@ -1,0 +1,18 @@
+.navbar-brand{
+    color: #cecab4;
+    font-size: 23pt;
+    font-weight: 650;
+    color: #fff;
+}
+.navbar-brand:hover{
+    color: #E4A11B;
+}
+.navbar-brand .fol{
+    color: #E4A11B;
+}
+.nav-item a{
+    color : #cecab4;
+    font-size: 12pt;
+    font-weight: 450;
+    
+}

@@ -1,0 +1,20 @@
+.first-text{
+    padding-top: 100px;
+    font-weight: 650;
+}
+
+.mid-text{
+    font-size: 50pt;
+    font-weight: 700;
+}
+.my-name{
+    color: #a78a25;
+    font-weight: 650;
+}
+.role{
+    color: #246f98;
+    font-weight: 700;
+}
+.text i{
+    padding-right: 20px;
+}
